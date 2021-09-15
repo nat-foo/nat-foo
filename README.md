@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm fascinated by questions at the intersection of law and tech.
+
 - 🔭.  I’m currently working on ways to be more intentional about my privacy online.
 - 🌱.  I’m currently learning security+ principles, chinese, and smart contract legalities.
 - 👯.  I’m looking to collaborate on AI and morality issues.
