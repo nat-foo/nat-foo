@@ -1,0 +1,6 @@
+export * from './lib/about'
+export * from './lib/contact'
+export * from './lib/footer'
+export * from './lib/project'
+export * from './lib/projects'
+export * from './lib/splash'

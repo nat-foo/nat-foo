@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "projects": {
+    "data": "libs/data",
+    "portfolio": "apps/portfolio",
+    "portfolio-e2e": "apps/portfolio-e2e",
+    "section": "libs/section",
+    "template": "libs/template",
+    "util": "libs/util"
+  },
+  "cli": {
+    "defaultCollection": "@nrwl/react"
+  },
+  "generators": {
+    "@nrwl/react": {
+      "application": {
+        "style": "scss",
+        "linter": "eslint",
+        "babel": true
+      },
+      "component": {
+        "style": "scss"
+      },
+      "library": {
+        "style": "scss",
+        "linter": "eslint"
+      }
+    }
+  },
+  "defaultProject": "portfolio"
+}
