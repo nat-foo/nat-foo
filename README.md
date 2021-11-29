@@ -2,7 +2,7 @@
 
 I'm fascinated by questions at the intersection of law and tech.
 
-You can find out [more about me on my website](https://natfoo.vercel.app/). These are just a few fast facts 🍃
+You can find out [more about me on my website](https://natfoo.vercel.app/), and can [view the source code here](https://github.com/nat-foo/nat-foo/tree/main/portfolio). These are just a few fast facts 🍃
 
 - 🔭.  I’m currently working on ways to be more intentional about my privacy online.
 - 🌱.  I’m currently learning security+ principles, chinese, and smart contract legalities.
