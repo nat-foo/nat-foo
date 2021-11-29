@@ -75,7 +75,7 @@ export const config = {
             "Our product was a social-media chatbot (before it was cool), which interfaced with socials to provide law firms with enhanced client acquisition. My involvement consisted of building the retrieval chatbot in Python, and constructing a limited ML-based demo for live audience participation."
           ],
           primary: ["Read More", "https://research.qut.edu.au/ace/2016/08/15/disrupting-law-and-enabling-entrepreneurship/"],
-          secondary: ["Read More", "https://www.thelegalforecast.com/disrupting-law-national"],
+          secondary: ["About the Event", "https://www.thelegalforecast.com/disrupting-law-national"],
           imagePath: "project-lawbot.png"
         }
       ] as ProjectProps[],
