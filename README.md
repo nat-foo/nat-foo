@@ -5,7 +5,7 @@ I'm fascinated by questions at the intersection of law and tech.
 You can find out [more about me on my website](https://natfoo.vercel.app/), and can [view the source code here](https://github.com/nat-foo/nat-foo/tree/main/portfolio). These are just a few fast facts 🍃
 
 - 🔭.  I’m currently working on ways to be more intentional about my privacy online.
-- 🌱.  I’m currently learning security+ principles, chinese, and smart contract legalities.
+- 🌱.  I’m currently learning security+ principles, Chinese, and smart contract legalities.
 - 👯.  I’m looking to collaborate on AI and morality issues.
 - 🤔.  I’m looking for help with the balance between anonymity and functionality.
 - 💬.  Ask me about why I think lawyers are programmers in disguise.
