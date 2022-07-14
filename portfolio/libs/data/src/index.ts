@@ -41,7 +41,7 @@ export const config = {
         {
           title: "Conversational ML",
           info: [
-            "For the past several months I have been working on an undisclosed machine learning project, which utilises Nvidia's NeMo docker container to run ASR, NLP, and TTS models. The net result is a conversational assistant which deploys in the cloud, liasing with a physical art installation running Unity.",
+            "For the past year I have been working on an undisclosed machine learning project, which utilises Nvidia's NeMo docker container to run ASR, NLP, and TTS models. The net result is a conversational assistant which deploys in the cloud, liasing with a physical art installation running Unity.",
             "While I can't yet reveal much about the project, I have been involved significantly with Docker, networking and API creation, Flask app development, Python process wrapping, and ML model training.",
           ],
           primary: ["General Idea", "https://towardsdatascience.com/create-your-own-virtual-personal-assistant-94be5df65ced"],
@@ -68,6 +68,7 @@ export const config = {
           secondary: ["Other Games", "https://survansix.itch.io/"],
           imagePath: "project-aether.png"
         },
+        /*
         {
           title: "Disrupting Law, First Place",
           info: [
@@ -78,6 +79,7 @@ export const config = {
           secondary: ["About the Event", "https://www.thelegalforecast.com/disrupting-law-national"],
           imagePath: "project-lawbot.png"
         }
+        */
       ] as ProjectProps[],
     },
     contact: {
